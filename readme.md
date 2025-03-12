@@ -1,4 +1,4 @@
-# Magénlaboratórium
+# Magánlaboratórium
 
 ## Projekt felelős:Pósa Krisztián
 
